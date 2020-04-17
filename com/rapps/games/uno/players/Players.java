@@ -1,4 +1,4 @@
-package com.rapps.games.uno;
+package com.rapps.games.uno.players;
 
 import java.util.ArrayList;
 import java.util.Collections;
